@@ -1,0 +1,2 @@
+image,object,confidence,width_pixels,height_pixels,bounding_box_area_pixels,width_cm_if_calibrated,height_cm_if_calibrated
+test.jpg,dog,0.9209,607.15,663.72,402977.94,,
